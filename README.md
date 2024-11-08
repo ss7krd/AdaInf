@@ -4,7 +4,6 @@ This is the source code repo for the paper ''AdaInf: Data Drift Adaptive Schedul
 
 The necessary packages and their versions are as below:
 
-# Name                    Version                   Build
 _libgcc_mutex             0.1                        main  
 _openmp_mutex             5.1                       1_gnu  
 _tflow_select             2.1.0                       gpu  
